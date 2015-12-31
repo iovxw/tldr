@@ -54,6 +54,8 @@ You can access these pages on your computer using one of the following clients:
     [Google Play](https://play.google.com/store/apps/details?id=io.github.hidroh.tldroid)
 - [Ruby client](https://github.com/YellowApple/tldrb): `gem install tldrb`
 - [R client](https://github.com/kirillseva/tldrrr): `devtools::install_github('kirillseva/tldrrr')`
+- [Clojure client](https://github.com/iovxw/tldr-clj): download from
+  [here](https://github.com/iovxw/tldr-clj/releases)
 - [Web client](https://github.com/ostera/tldr.jsx): try tldr on your browser
   [here](https://ostera.github.io/tldr.jsx)!
 
